@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Discord](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fspartaremix%2Fimages%2Fe%2Fec%2FDiscord-new-logo.png%2Frevision%2Flatest%3Fcb%3D20180224071554&f=1&nofb=1) Berth (RVG_Fenyco)#3066
+[Discord](https://mforum.ist/media/discord-logo-png.9007/full) Berth (RVG_Fenyco)#3066
 
 <!--
 **Fenyco/Fenyco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
