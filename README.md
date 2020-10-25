@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Discord](https://mforum.ist/media/discord-logo-png.9007/full) Berth (RVG_Fenyco)#3066
+![Discord](https://mforum.ist/media/discord-logo-png.9007/full) {width=50%} Berth (RVG_Fenyco)#3066
 
 <!--
 **Fenyco/Fenyco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
