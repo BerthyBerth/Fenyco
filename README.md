@@ -1,7 +1,6 @@
-### Hi there 👋
+### Berthy Berth
 
-![Discord](https://mforum.ist/media/discord-logo-png.9007/full =16x16) Berth (RVG_Fenyco)#3066
-
+[<img align="left" alt="Discord" width="16px>" src="https://mforum.ist/media/discord-logo-png.9007/full"/>][Discord]
 <!--
 **Fenyco/Fenyco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
