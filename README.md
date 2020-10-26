@@ -1,6 +1,7 @@
 ### Berthy Berth
 
 [<img align="left" alt="Discord" width="16px" src="https://github.com/Fenyco/Fenyco/blob/main/discord.png?raw=true" />][Discord]
+
 <!--
 **Fenyco/Fenyco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
